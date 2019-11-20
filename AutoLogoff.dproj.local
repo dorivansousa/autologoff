@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/19 10:42:51.000.053,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/04 10:46:44.000.724,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/30 12:42:00.000.600,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/02 11:29:36.000.383,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/02 14:54:53.000.202,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/14 14:29:36.000.267,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/02 09:57:13.000.595,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/10 14:22:32.000.899,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/14 09:58:08.000.189,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/15 08:58:03.000.281,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/15 09:00:12.000.101,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/18 12:14:26.000.514,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/27 21:31:20.000.300,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/31 14:07:51.000.728,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/02 20:42:41.000.825,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2019/11/02 20:42:44.000.887,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/11/02 21:42:57.000.380,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/02 21:45:23.000.516,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/20 08:12:50.776,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/20 08:13:08.797,=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/11/20 08:13:46.648,C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\AutoLogoff\UPrincipal.pas=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/11/20 08:13:46.648,C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\AutoLogoff\UPrincipal.dfm=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019/11/20 08:13:49.069,C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\AutoLogoff\ULogin.pas=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/20 08:13:49.069,C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\AutoLogoff\ULogin.dfm=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/11/20 08:13:53.387,C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\AutoLogoff\AutoLogoff.dproj=C:\Users\doriv\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
